@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="G6FOxU9QK8CfwBliLmfo" name="Page-1">
+        <mxGraphModel dx="786" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="10" width="170" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="10" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="HOTEL" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="65" y="25" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="15" width="170" height="245" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="10" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="P&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;AGAMENTO&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="255" y="25" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="10" width="170" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="10" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="CONTATO" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="445" y="30" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;div&gt;- Nome&lt;/div&gt;&lt;div&gt;- Preço&lt;/div&gt;- Avaliação&amp;nbsp;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&amp;nbsp;Endereço&lt;/span&gt;&lt;div&gt;&lt;div&gt;- Ponto referência pra turistas&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;- Foto do hotel&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;- Descrição do hotel&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="12.5" y="82.5" width="187.5" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;ul&gt;&lt;li&gt;Parcela do cartão&lt;/li&gt;&lt;li&gt;Numero do cartão&lt;/li&gt;&lt;li&gt;QR-code/chave do pix&lt;/li&gt;&lt;li&gt;informações do boleto&lt;/li&gt;&lt;li&gt;Tipo de pagamento&lt;/li&gt;&lt;li&gt;nome e cpf pro boleto&lt;/li&gt;&lt;li&gt;arquivo em pdf pra boleto&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="100" width="160" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;ul style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); text-align: left;&quot;&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;E-mail do cliente&lt;/li&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Telefone do cliente&lt;/li&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Nome do cliente&lt;/li&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Mensagem&lt;/li&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;Data da reserva&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="150" width="180" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
